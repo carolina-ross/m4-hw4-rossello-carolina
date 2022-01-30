@@ -1,1 +1,23 @@
+/* Style Entire Page */
+    body {
+    background-color: #E2D1D2;
+    color: #000000;
+    margin: 12px;
+	  }
 
+/* Style Headings */
+    h1,h2 {
+	  text-align: center;
+	  color: white;
+    }
+    h1 {
+	  font-size: 30px
+    }
+
+/* Style Image */
+    img {
+	  display: block;
+	  margin-left: auto;	
+	  margin-right: auto;
+    padding-top: 50px;
+    }
