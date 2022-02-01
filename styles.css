@@ -38,3 +38,21 @@
 	height: 30px;
 	padding-top: 12px;
         }
+
+     nav a {
+     background: white;
+     color: black;
+     padding: 10px;
+     text-decoration: none;
+        }
+
+      nav a:hover {
+      background: gray;
+        }
+
+/* Style Footer */
+     footer {
+	align-text: center;
+	background-color: #B3B3B3;
+	padding: 5px;
+        }
