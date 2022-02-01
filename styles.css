@@ -32,6 +32,12 @@
 	padding-bottom: 20px;
         }
 
+    header a {
+        color: black;
+        padding: 10px;
+        text-decoration: none;
+        }
+
 /* Style NavBar */
     nav {
 	background-color: white;
@@ -51,8 +57,14 @@
         }
 
 /* Style Footer */
-     footer {
-	align-text: center;
+      footer {
+	text-align: center;
 	background-color: #B3B3B3;
-	padding: 5px;
-        }
+	padding-top: 10px;
+	padding-bottom: 5px;
+    }
+   
+    footer a {
+	text-align: center;
+	color: white;
+    }
